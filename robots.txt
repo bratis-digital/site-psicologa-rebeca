@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://psicologa.brunobpcreator.com/sitemap.xml
